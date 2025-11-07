@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+mediapipe
+tensorflow
+numpy
+gtts
+SpeechRecognition
+
