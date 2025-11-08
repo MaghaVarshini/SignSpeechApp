@@ -1,9 +1,10 @@
 streamlit
-opencv-python-headless==4.12.0
+opencv-python-headless
 mediapipe
 tensorflow
 numpy
 gtts
 SpeechRecognition
+
 
 
